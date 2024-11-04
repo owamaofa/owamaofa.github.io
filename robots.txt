@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://owamaofa.github.io/UKa/sitemap_index.txt
+Sitemap: https://owamaofa.github.io/hNO/sitemap_index.txt
+Sitemap: https://owamaofa.github.io/qWy/sitemap_index.txt
+Sitemap: https://owamaofa.github.io/yJx/sitemap_index.txt
